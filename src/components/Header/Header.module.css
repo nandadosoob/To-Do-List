@@ -2,10 +2,13 @@
     background-color: var(--preto);
     color: var(--cinza);
     padding: 0.25rem 0.5rem;
+    text-align: center;
+    width: 100%;
 }
 
 .Header h1{
     font-size: 1.3rem;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
 
 .Header span{
